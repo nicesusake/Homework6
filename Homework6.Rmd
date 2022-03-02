@@ -1,0 +1,36 @@
+Your homework  for this week is to search for three different data sets that interest you, look at the metadata, and answer our metadata questions. There are several data sources listed in the project information section. 
+
+(Try and think up a couple interesting questions the data could possibly answer!)
+
+- Who created this dataset? Where does it come from? 
+- What features does this dataset have?
+    - What data does each column capture?
+    - What units are the values in?
+    - What categories are there? What do they mean?
+- What is the possible range of values here? 
+- What terms do you not know or understand?
+    - Is there a lot of unfamiliar jargon? (In this case, both unfamiliar to you and to someone who is less knowledgeable about the topic.)
+    
+    https://www.kaggle.com/chuckephron/leagueoflegends?select=LeagueofLegends.csv
+    Chuck Ephron created this league of legends data set.
+    It comes from the professional e-sports league coming from the popular game league of legends.
+    The features of the dataset are the match info of each game
+    Each of the data that is captured refers to where the games took place,time,what type of matches they were.
+    The categories represent in real time where the matches took place and the objectives in the game as well. So teams can review why they lost and where they fell behind in specific objectives of the game to wonder why they lost.
+    The units of the dataset are string and numeric
+    I do know all of the terms because of how geeky I am and I play the game as well so I know everything about it.
+    But if I was presenting the game to someone, there are a lot of obectivess, gold, kills, and very numerous amounts of categories that you can't use common sense for since its such a complex game at first.
+    https://sports-statistics.com/sports-data/nba-basketball-datasets-csv-files/
+    Thomas Nielsen wrote this dataset about the NBA and over the years of 2000-2020
+    This dataset covers all of players statistics over the course of the years in the NBA, to what they contributed to the game.
+    Each data each column collects the box score of each game, so it comes down to points,blocks,fouls,turnovers, and e.t.c
+    All values are numeric
+    The possible range of values can go from 1 through 100.
+    I feel like there isn't really a lot of unfamilarilty because you can just understand the basic concept of basketball really fast.
+    https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
+    The creator of this dataset is spotify and comes from the music app called Spotify.
+    So this feature called recommend music comes from playlists you make so you can get recommened music you like based off of similar playtlists.
+    The different categories would be the artists name, the album, the genre of music, how long songs are as well as taking in playlists as well as the tracks.
+    There is not really unfamilar jargon with music just only how spotify makes different genres here and there and randomly throw in music to a subject and different songs can fall into multiple categories.
+    
+    
